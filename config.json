@@ -17,7 +17,8 @@
         }
     ],
     "pdf_files": {
-        "文档1": "./test1.pdf",
-        "文档2": "./test2.pdf"
+        "文档1": "./pdfs/test1.pdf",
+        "文档2": "./pdfs/test2.pdf"
     }
+
 }
