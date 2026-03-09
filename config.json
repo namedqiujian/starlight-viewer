@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "123456",
+            "role": "admin"
+        },
+        {
+            "username": "user1",
+            "password": "user123",
+            "role": "user"
+        },
+        {
+            "username": "user2",
+            "password": "user456",
+            "role": "user"
+        }
+    ],
+    "pdf_files": {
+        "文档1": "./test1.pdf",
+        "文档2": "./test2.pdf"
+    }
+}
