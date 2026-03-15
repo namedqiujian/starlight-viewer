@@ -1,7 +1,0 @@
-# 核心依赖
-streamlit>=1.55.0
-# PDF 查看器依赖
-streamlit-pdf-viewer>=0.0.27
-# 其他依赖（你的代码用到的）
-json5>=0.9.6
-pathlib>=1.0.1
